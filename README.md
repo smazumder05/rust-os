@@ -6,7 +6,7 @@ This roadmap is based on the [Writing an OS in Rust](https://os.phil-opp.com/) s
 
 ---
 
-## 🛠 Toolchain Requirements
+##  Toolchain Requirements
 
 Before starting, ensure the following tools are installed and configured:
 
@@ -16,7 +16,7 @@ Before starting, ensure the following tools are installed and configured:
 
 ---
 
-## 🚀 Development Phases
+##  Development Phases
 
 ### MVP 2: VGA Text Mode Driver
 
